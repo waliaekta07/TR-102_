@@ -34,7 +34,7 @@ To get started with this repository:
 
 1. *Clone the Repository*: Use the following command to clone the repository to your local machine:
     ```
-    git clone https://github.com/chetanck03/TR-102.git
+    git clone https://github.com/waliaekta07/TR-102_.git
     ```
     
 2. *Navigate to the Daily Task*: Navigate to the folder of the current date to view and start working on the tasks.
